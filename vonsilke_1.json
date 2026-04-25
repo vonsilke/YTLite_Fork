@@ -50,7 +50,7 @@
           "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
         }
-      },
+      }
     }
   ],
   "news": [
