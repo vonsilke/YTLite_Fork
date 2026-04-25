@@ -4,6 +4,7 @@
   "description": "Welcome to VonSilke's source!",
   "iconURL": "https://i.imgur.com/TP1z4Hp.png",
   "website": "https://vonsilke.com",
+  "patreonURL": "https://patreon.com/vonsilke",
   "tintColor": "#6156e2",
   "featuredApps": [],
   "headerURL": "https://i.imgur.com/JCIltNu.jpeg",
@@ -50,20 +51,9 @@
           "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
         }
-      }
+      },
+      "patreon": {}
     }
   ],
-  "news": [
-    {
-      "title": "New Cissia App",
-      "identifier": "news_mdcpkbc445",
-      "caption": "Introducing a new Cissia App in AltStore!",
-      "date": "2026-04-25T17:04",
-      "tintColor": "#6156e2",
-      "imageURL": "https://i.imgur.com/LVwFwlF.png",
-      "notify": true,
-      "url": "https://example.com/new_feature_details",
-      "appID": "com.google.ios.youtube"
-    }
-  ]
+  "news": []
 }
