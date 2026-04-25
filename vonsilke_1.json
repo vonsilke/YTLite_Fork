@@ -35,7 +35,35 @@
           "localizedDescription": "Insert description here",
           "minOSVersion": "17.0"
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "New Cissia App",
+      "identifier": "news_mdcpkbc445",
+      "caption": "Introducing a new Cissia App in AltStore!",
+      "date": "2026-04-25T17:04",
+      "tintColor": "#6156e2",
+      "imageURL": "https://i.imgur.com/LVwFwlF.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": "com.google.ios.youtube"
     }
   ]
 }
