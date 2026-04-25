@@ -23,6 +23,7 @@
           "width": 2408,
           "height": 1156
         },
+        "https://i.imgur.com/8OYNKqn.png"
       ],
       "versions": [
         {
@@ -34,7 +35,7 @@
           "localizedDescription": "Insert description here",
           "minOSVersion": "17.0"
         }
-      ],
+      ]
     }
   ]
 }
