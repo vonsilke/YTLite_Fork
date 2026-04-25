@@ -4,7 +4,6 @@
   "description": "Welcome to VonSilke's source!",
   "iconURL": "https://i.imgur.com/TP1z4Hp.png",
   "website": "https://vonsilke.com",
-  "patreonURL": "https://patreon.com/vonsilke",
   "tintColor": "#6156e2",
   "featuredApps": [],
   "headerURL": "https://i.imgur.com/JCIltNu.jpeg",
@@ -52,7 +51,6 @@
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
         }
       },
-      "patreon": {}
     }
   ],
   "news": [
