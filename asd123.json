@@ -1,0 +1,59 @@
+{
+  "name": "VonSilke Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to VonSilke's source!",
+  "iconURL": "https://i.imgur.com/TP1z4Hp.png",
+  "website": "https://vonsilke.com",
+  "patreonURL": "https://patreon.com/vonsilke",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/JCIltNu.jpeg",
+  "apps": [
+    {
+      "name": "Cissia App",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "marketplaceID": "",
+      "developerName": "VonSilke",
+      "subtitle": "An awesome Cissia app.",
+      "localizedDescription": "This is an awesome Cissia app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/WTxlFai.png",
+      "tintColor": "#fc0434",
+      "category": "games",
+      "screenshots": [
+        {
+          "imageURL": "https://i.imgur.com/yJiaAgv.jpeg",
+          "width": 2408,
+          "height": 1156
+        },
+        "https://i.imgur.com/8OYNKqn.png"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/vonsilke/YTLite_Fork/releases/download/123/YouTubePlus-21.03.2_5.2b4.ipa",
+          "size": 125300000,
+          "version": "21.03.2",
+          "buildVersion": "1.0",
+          "date": "2026-04-25T09:39:00+02:00",
+          "localizedDescription": "Insert description here",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
