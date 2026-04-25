@@ -5,7 +5,6 @@
   "iconURL": "https://i.imgur.com/TP1z4Hp.png",
   "website": "https://vonsilke.com",
   "tintColor": "#6156e2",
-  "featuredApps": [],
   "headerURL": "https://i.imgur.com/JCIltNu.jpeg",
   "apps": [
     {
@@ -24,7 +23,6 @@
           "width": 2408,
           "height": 1156
         },
-        "https://i.imgur.com/8OYNKqn.png"
       ],
       "versions": [
         {
